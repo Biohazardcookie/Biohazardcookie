@@ -1,4 +1,7 @@
-### Hi there 👋
+### Biohazardcookie's Stamp of Approval
+### Random coder
+### Code random things that I think is useful
+### Thanks for downloading
 
 <!--
 **Biohazardcookie/Biohazardcookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
